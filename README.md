@@ -1,6 +1,6 @@
 # MyPortfolioApp
 
-A simple To Do List app using firebase.
+A simple To Do List app using firebase and SwiftUI.
 
 # Features 
 
